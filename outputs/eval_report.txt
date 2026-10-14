@@ -1,0 +1,7 @@
+[detection]  predicted=10 gold=10 precision=1.00 recall=1.00
+             false alarms: []  missed: []
+[verdict]    10/10 correct   [cited note] 10/10 correct
+[sample nums] matched rows=3  cost ok=3  own% ok=3  peer% ok=3
+[guardrail]  invalid justified citations: none
+[guardrail]  unexplained rows with a note id: 0
+RESULT: PASS
